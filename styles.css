@@ -1,0 +1,9 @@
+body {
+    background-image: url("background.png");
+}
+h1 {
+    color: white;
+    font-size: 100px;
+    border-style:solid;
+    border-color:#287EC7;
+}
